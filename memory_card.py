@@ -47,8 +47,8 @@ def check_answer():
 
 app = QApplication([])
 main_win = QWidget()
-main_win.resize(500,300)
-main_win.setWindowTitle("Memory Card")
+main_win.resize(600,400)
+main_win.setWindowTitle("Карточки для запоминания")
 
 
 
